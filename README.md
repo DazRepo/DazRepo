@@ -1,13 +1,12 @@
-### Hi there 👋 I am DAZII, Welcome to my GitHub Profile
+### Hi 👋 I am DAZII, Welcome to my Profile
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DazRepo/&title=Profile%20Views)
 ### ᴛᴏᴏʟs:
 <p>
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%10studio%10code&logoColor=blue" />
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DazRepo/&title=Profile%20Views)
 # My Profil 
 <p align="">
 <a href="https://t.me/xdazher"><img alt="Telegram" src="https://img.shields.io/badge/DAZII-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
